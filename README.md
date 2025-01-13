@@ -1,11 +1,11 @@
 Hi there! I'm Animesh, a passionate developer with a strong foundation in programming and web development. I love building efficient, scalable, and user-friendly solutions. Here's a bit about what I bring to the table:
 
-💻 Programming Languages:
+💻 Programming Languages: <br>
 🟦 C & C++: Crafting high-performance applications and mastering data structures & algorithms. <br>
 ☕ Java: Developing robust backend systems and object-oriented solutions. <br>
 🐍 Python: Solving problems with clean and concise code, and exploring AI/ML and automation.
 
-🌐 Web Development:
+🌐 Web Development: <br>
 🌟HTML & CSS: Designing responsive and visually appealing websites. <br>
 📚 Currently Exploring: Advanced frameworks and tools to enhance my development skills.
 
