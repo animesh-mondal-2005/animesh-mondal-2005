@@ -23,6 +23,7 @@ Hi there! I'm Animesh, a passionate developer with a strong foundation in progra
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=gnuassembly&logoColor=white"/>
+  <img alt="Verilog" src="https://img.shields.io/badge/-Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white"/>
 </p>
 
 ### 🌐 Connect if you wish
