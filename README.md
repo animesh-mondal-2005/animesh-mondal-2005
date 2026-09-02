@@ -49,21 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=animesh-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Animesh's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-mondal&theme=tokyonight&hide_border=true" alt="Animesh's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-mondal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-> 💡 Replace `animesh-mondal` above with your exact GitHub username if it differs, so the stat cards pull your real data.
-
----
-
 ### 🌐 Connect with Me
 
 <p>
