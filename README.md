@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT+Chennai;Learning+Machine+Learning;Preparing+for+Placements;Flask+Backend+Developer;Exploring+System+Design+%26+DSA" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/animesh-mondal-b8102728b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ---
 
